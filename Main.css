@@ -1,0 +1,36 @@
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(163, 195, 231);
+}
+h1 {
+    color: black;
+    font-family: Arial;
+    font-size: 20pt;
+}
+h2 {
+    color: black;
+    font-family: Arial;
+    font-size: 18pt;
+}
+p {
+        color: black;
+        font-family: Arial;
+        font-size: 14pt;
+    }
+ul {
+    color: black;
+    font-family: Arial;
+    font-size: 14pt;
+}
+li {
+    color: black;
+    font-family: Arial;
+    font-size: 14pt;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+  }
